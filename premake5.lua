@@ -1,9 +1,9 @@
-workspace "2dGameEngine"
+workspace "SDLTemplate"
     platforms { "Windows" }
     configurations { "Debug", "Release" }
     flags "MultiProcessorCompile"
 
-project "2dGameEngine"
+project "SDLTemplate"
     kind "ConsoleApp"
     language "C++"
     cppdialect "C++17"
